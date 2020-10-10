@@ -16,8 +16,8 @@
 
 ## 联系我
 
-* 博客: [stormzhang](https://www.gzhzyz.tk)
+* 博客: [浅行浅醉博客](https://www.gzhzyz.tk)
 
-* 爱导航: [googdev](http://www.idaohang.ml)
+* 爱导航: [爱导航](http://www.idaohang.ml)
 
 
