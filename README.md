@@ -16,4 +16,5 @@
 [img写入工具](https://qianxingqianzuicloud.coding.net/api/share/download/593e6d78-8e94-4733-9899-b5bc13f52daf)
 
 
-<audio id="bgmMusic" src="https://pan.cccyun.cc/view.php/23de36e0df86ed7572955be1821f8196.mp3" autoplay="autoplay" loop="loop" preload="auto"></audio>
+
+<iframe src="https://pan.cccyun.cc/player.php?hash=23de36e0df86ed7572955be1821f8196" width="407" scrolling="no"frameborder="0"height="70"></iframe>
