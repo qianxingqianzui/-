@@ -9,7 +9,7 @@
 
 * 博客: [浅行浅醉博客](https://www.gzhzyz.tk)
 
-* 爱导航: [爱导航](http://www.idaohang.ml)
+* 导航: [爱导航](http://www.idaohang.ml)
 
 [OpenWrt固件下载⍖⍖⍖](https://qianxingqianzuicloud.coding.net/api/share/download/0d0c2a06-2c74-4db8-94e0-120556b6dbe1)
 
