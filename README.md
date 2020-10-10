@@ -11,7 +11,7 @@
 
 * 导航: [爱导航](http://www.idaohang.ml)
 
-[OpenWrt固件下载⍖⍖⍖](https://qianxingqianzuicloud.coding.net/api/share/download/0d0c2a06-2c74-4db8-94e0-120556b6dbe1)
+[OpenWrt固件下载↓↓↓](https://qianxingqianzuicloud.coding.net/api/share/download/0d0c2a06-2c74-4db8-94e0-120556b6dbe1)
 
-[img写入工具下载⍖⍖⍖](https://qianxingqianzuicloud.coding.net/api/share/download/593e6d78-8e94-4733-9899-b5bc13f52daf)
+[img写入工具下载↓↓↓](https://qianxingqianzuicloud.coding.net/api/share/download/593e6d78-8e94-4733-9899-b5bc13f52daf)
 
