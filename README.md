@@ -3,7 +3,7 @@
 
 ## 关于我
 
-爱好Android开发者 + Ruby语言爱好者 + Google脑残粉，爱技术， 爱开源， 爱设计， 爱赚钱。互联网中毒症患者，Want to make a good app!
+爱好Android开发者 + Python+java+CC+Google脑残粉，爱技术， 爱开源， 爱设计， 爱赚钱。互联网中毒症患者，Want to make a good app!
 
 ## 联系我
 
