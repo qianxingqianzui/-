@@ -20,4 +20,6 @@
 
 * 爱导航: [爱导航](http://www.idaohang.ml)
 
+*固件:[固件下载](https://qianxingqianzuicloud.coding.net/api/share/download/0d0c2a06-2c74-4db8-94e0-120556b6dbe1）
+
 
