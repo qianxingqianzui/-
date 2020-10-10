@@ -1,4 +1,3 @@
-## 更多精彩内容请访问浅行浅醉博客www.gzhzyz.tk
 
 基于Wordpress搭建的的个人博客站点[http://www.gzhzyz.tk](http://www.gzhzyz.tk)，主题风格本着"simple is beautiful"的原则。
 
