@@ -8,8 +8,8 @@ Centos安装Debian
 ```yum install -y gawk sed grep```  
 2、下载脚本  
 ```wget --no-check-certificate -qO DebianNET.sh 'https://moeclub.org/attachment/LinuxShell/DebianNET.sh' && chmod a+x DebianNET.sh```  
-3、自动安装
-```bash DebianNET.sh -d 9 -v 64 -a -p WalterlvPwd```
+3、自动安装  
+```bash DebianNET.sh -d 9 -v 64 -a -p WalterlvPwd```  
 其中64是64位的意思 -a是自动安装 -m 手动安装 手动安装需要VNC界面操作。-p后面的是root密码 可自定义  
 4、VNC界面  
 ![baidu](https://gitee.com/qingyu520/imgs/raw/master/qingyu520/imgs/014544qqtupian20201116.png "安装进度图")  
