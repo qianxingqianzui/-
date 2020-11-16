@@ -1,13 +1,13 @@
-##前言
-我们在使用VPS的时候避免不了总要重新安装系统，或者从Centos到Debian又或者VPS厂商安装的默认系统有一些限制，不论哪种原因都会经常给VPS安装系统，Linux系统的安装不像Windows系统安装时间那么长而且安装很简单。
-##安装限制
-仅适用于KVM，不适合OpenVZ。
-##开始安装
-###Centos安装Debian
-####1、安装所需软件
-```yum install -y gawk sed grep```
-####2、下载脚本
-```wget --no-check-certificate -qO DebianNET.sh 'https://moeclub.org/attachment/LinuxShell/DebianNET.sh' && chmod a+x DebianNET.sh```
+##前言  
+我们在使用VPS的时候避免不了总要重新安装系统，或者从Centos到Debian又或者VPS厂商安装的默认系统有一些限制，不论哪种原因都会经常给VPS安装系统，Linux系统的安装不像Windows系统安装时间那么长而且安装很简单。  
+##安装限制  
+仅适用于KVM，不适合OpenVZ。  
+##开始安装  
+###Centos安装Debian  
+####1、安装所需软件  
+```yum install -y gawk sed grep```  
+####2、下载脚本  
+```wget --no-check-certificate -qO DebianNET.sh 'https://moeclub.org/attachment/LinuxShell/DebianNET.sh' && chmod a+x DebianNET.sh```  
 ####3、自动安装
 ```bash DebianNET.sh -d 9 -v 64 -a -p WalterlvPwd```
 其中64是64位的意思 -a是自动安装 -m 手动安装 手动安装需要VNC界面操作。-p后面的是root密码 可自定义
