@@ -12,7 +12,7 @@ Centos安装Debian
 ```bash DebianNET.sh -d 9 -v 64 -a -p WalterlvPwd```  
 其中64是64位的意思 -a是自动安装 -m 手动安装 手动安装需要VNC界面操作。-p后面的是root密码 可自定义  
 4、VNC界面  
-![baidu](https://gitee.com/qingyu520/imgs/raw/master/qingyu520/imgs/014544qqtupian20201116.png "安装进度图")  
+![安装图](https://gitee.com/qingyu520/imgs/raw/master/qingyu520/imgs/014544qqtupian20201116.png "安装进度图")  
 在VPS控制台中有VNC控制，如果没有的话也没关系，等待10分钟左右自动安装完成就可以SSH连接了  
 其他安装脚本（收集未测试，不断更新）  
 Debian/Ubuntu  
